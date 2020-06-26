@@ -1,0 +1,47 @@
+Store# 29853
+KS # <KS> 2
+Date of visit : <date>
+Time of Visit : <time>
+Order # <order>
+Amount spent : <amount>
+
+yes + Dine-in<#1> + 1+ 6 + 6 + 1 + no + 2 + <comment> + no + no + <party 3> + <# of visits> + <I noticed invite>
++ 2 X( about the sames )
+Validation code : 7 digits
+
+All Page Names:
+https://www.mcdvoice.com/
+https://www.mcdvoice.com/Survey.aspx?c=135418
+https://www.mcdvoice.com/Survey.aspx?c=435818
+https://www.mcdvoice.com/Survey.aspx?c=585818
+https://www.mcdvoice.com/Survey.aspx?c=125918
+https://www.mcdvoice.com/Survey.aspx?c=145918
+https://www.mcdvoice.com/Survey.aspx?c=555918
+https://www.mcdvoice.com/Survey.aspx?c=040019
+https://www.mcdvoice.com/Survey.aspx?c=080019
+https://www.mcdvoice.com/Survey.aspx?c=200019
+https://www.mcdvoice.com/Survey.aspx?c=230019
+https://www.mcdvoice.com/Survey.aspx?c=310019
+https://www.mcdvoice.com/Survey.aspx?c=410019
+https://www.mcdvoice.com/Survey.aspx?c=540019
+https://www.mcdvoice.com/Survey.aspx?c=580019
+https://www.mcdvoice.com/Survey.aspx?c=270119
+https://www.mcdvoice.com/Finish.aspx?c=090219
+
+
+https://mcdvoice.com/Index.aspx?c=563219&AmountSpent1=&AmountSpent2=&CN1=&CN2=&CN3=&CN4=&CN5=&CN6=&Index_AgeVerification=&Index_VisitDateDatePicker=&Index_VisitDateFormattedDate=&InputDay=&InputHour=&InputMinute=&InputMonth=&InputRegisterNum=&InputStoreID=&InputTransactionNum=&InputYear=
+
+Everything but amount spendt and age
+https://mcdvoice.com/Index.aspx?c=313419&AmountSpent1=&AmountSpent2=&CN1=&CN2=&CN3=&CN4=&CN5=&CN6=&Index_AgeVerification=&Index_VisitDateDatePicker=08%2f24%2f2015&Index_VisitDateFormattedDate=20150824&InputDay=24&InputHour=10&InputMinute=11&InputMonth=08&InputRegisterNum=2&InputStoreID=29853&InputTransactionNum=1235&InputYear=2015
+
+The last two
+&AmountSpent1=44&AmountSpent2=55&Index_AgeVerification=1
+
+completed
+https://mcdvoice.com/Index.aspx?c=313419&AmountSpent1=<AMOUNT1>&AmountSpent2=<AMOUNT2>&CN1=&CN2=&CN3=&CN4=&CN5=&CN6=&Index_AgeVerification=<1>&Index_VisitDateDatePicker=<date format>08%2f24%2f2015&Index_VisitDateFormattedDate=<date>20150824&InputDay=<day>24&InputHour=<hr>10&InputMinute=<min>11&InputMonth=<month>08&InputRegisterNum=<register #>2&InputStoreID=<store id>29853&InputTransactionNum=<order #>1235&InputYear=<year>2015
+
+Test
+https://mcdvoice.com/Index.aspx?c=313419&AmountSpent1=5&AmountSpent2=29&CN1=&CN2=&CN3=&CN4=&CN5=&CN6=&Index_AgeVerification=1&Index_VisitDateDatePicker=08%2f24%2f2015&Index_VisitDateFormattedDate=20150824&InputDay=24&InputHour=10&InputMinute=11&InputMonth=08&InputRegisterNum=2&InputStoreID=29853&InputTransactionNum=275&InputYear=2015
+
+
+http://wwwsearch.sourceforge.net/mechanize/
